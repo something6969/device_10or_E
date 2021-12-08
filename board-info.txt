@@ -1,0 +1,2 @@
+require version-baseband=3.0-00436-8937_GENNS_PACK-1.159002.0.159466.1
+require version-trustzone=TZ.BF.4.0.5-158285
